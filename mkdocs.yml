@@ -1,0 +1,11 @@
+site_name: 小小创造家
+nav:
+        - Home: app.md
+pages:
+        - index.md
+        - 智能家居.md
+        - 大数据.md
+        - 人机键鼠.md
+theme:
+        #name: cerulean
+        name: readthedocs
