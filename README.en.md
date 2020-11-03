@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 # little_creators_docs
 
 #### Description
 小小创造家在线文档
+=======
+# little_creater_help
+
+#### Description
+{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+>>>>>>> 1a97820cbd2b5435c1d849025e3d20cb80fbf24d
 
 #### Software Architecture
 Software architecture description
