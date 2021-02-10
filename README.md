@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # little_creators_docs
 
 #### 介绍
